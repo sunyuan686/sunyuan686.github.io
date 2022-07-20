@@ -1,0 +1,13 @@
+
+section.cover h1 .anchor span {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+	font-size: 110px;
+}
+
+section.cover h2 .anchor span {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: black;
+}
+
